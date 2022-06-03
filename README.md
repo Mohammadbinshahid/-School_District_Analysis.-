@@ -1,5 +1,7 @@
 # School District Analysis 
 
+** Challenge code until output line 128 in file, original module code is after line 128 **
+
 ## Overview of the school district analysis:
 School District Board requested to perform an analysis of several key matrics at school and district level to get a snapshot of their performance. Analysis focused on maths and reading scored presented in several different ways for a board meeting. The School Board reviewed the analysis and assessed that the data from Thomas High School's Ninth Grade Class maybe subject to acadamic dishonesty. The board asked for this data to be removed and a revised analysis to be performed. 
 
