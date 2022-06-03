@@ -25,7 +25,7 @@ The test data of 9th grade students of Thomas Hight School was changed to null d
 
 For reading, the grade average was same rounded to one decimal point however pass percentage dropped from 86% to 85.7%.
 
-How is the school summary affected?
+### How is the school summary affected?
 
 Original
 ![School Summary Original](https://user-images.githubusercontent.com/104873181/171783466-23994cd9-a3dc-496a-b51e-85b2ae5ab0cf.png)
@@ -35,17 +35,17 @@ Revised
 
 As shown in the snapshots, the overall passing percentage came down from 90.95% to 90.63%.
 
-# How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 Using the same snapshots as above, we can see that the passing percentage for Thomas High School came down by 32 basis point where as all other schools remained unchanged.
 
-# How does replacing the ninth-grade scores affect the following:
+### How does replacing the ninth-grade scores affect the following:
 
 Math and reading scores by grade - Math average is coming down from 83.42 to 83.35 for Thomas High. Reading average has gone up to 83.90 from 83.85
 
-## Scores by school spending - no change
+### Scores by school spending - no change
 
-## Scores by school size - 
+### Scores by school size 
 
 Original
 
@@ -56,7 +56,7 @@ Revised
 
 As visible in the the snapshots scores have come down for medium sized schools in the revised data due to null values given to students of 9th grade in THS.
 
-## Scores by school type - Average came down for Charter Schools
+### Scores by school type - Average came down for Charter Schools
 
 # Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
