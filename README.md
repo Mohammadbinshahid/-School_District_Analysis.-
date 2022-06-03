@@ -43,9 +43,9 @@ Using the same snapshots as above, we can see that the passing percentage for Th
 
 Math and reading scores by grade - Math average is coming down from 83.42 to 83.35 for Thomas High. Reading average has gone up to 83.90 from 83.85
 
-# Scores by school spending - no change
+## Scores by school spending - no change
 
-# Scores by school size - 
+## Scores by school size - 
 
 Original
 
@@ -56,9 +56,9 @@ Revised
 
 As visible in the the snapshots scores have come down for medium sized schools in the revised data due to null values given to students of 9th grade in THS.
 
-# Scores by school type - Average came down for Charter Schools
+## Scores by school type - Average came down for Charter Schools
 
-## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+# Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 1. The overall passing rate for Thomas High School changed from 90.94% to 90.63%
 2. Data at the grade level will now show as "NaN" in reports for the 9th grade students at Thomas High School
