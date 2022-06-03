@@ -41,7 +41,7 @@ Using the same snapshots as above, we can see that the passing percentage for Th
 
 ## How does replacing the ninth-grade scores affect the following:
 
-# Math and reading scores by grade - Math average is coming down from 83.42 to 83.35 for Thomas High. Reading average has gone up to 83.90 from 83.85
+Math and reading scores by grade - Math average is coming down from 83.42 to 83.35 for Thomas High. Reading average has gone up to 83.90 from 83.85
 
 # Scores by school spending - no change
 
