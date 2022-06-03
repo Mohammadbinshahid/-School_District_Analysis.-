@@ -58,7 +58,7 @@ As visible in the the snapshots scores have come down for medium sized schools i
 
 ### Scores by school type - Average came down for Charter Schools
 
-# Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 1. The overall passing rate for Thomas High School changed from 90.94% to 90.63%
 2. Data at the grade level will now show as "NaN" in reports for the 9th grade students at Thomas High School
