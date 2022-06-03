@@ -19,7 +19,7 @@ Original
 ![district_summary_df original](https://user-images.githubusercontent.com/104873181/171781913-035200ca-7fef-4bf3-a845-7f5ef4d6c376.png)
 
 Revised
-![district_summary_df revised](https://user-images.githubusercontent.com/104873181/171781936-2f9924aa-52ca-44dc-8fc6-d513a69bd56a.png)
+![district_summary_df revised](https://user-images.githubusercontent.com/104873181/171786912-ca7afa94-f7f5-48e5-8e3f-3bced7918844.png)
 
 The test data of 9th grade students of Thomas Hight School was changed to null data. Revised percentages of students passing were calculated. Data showed an insignificant change in overall scores. Math grade average came down to 78.9 as compared to 79. In percentage terms, grade average went down by 0.2% to 74.8% from 75% in the original analysis for maths.
 
@@ -58,4 +58,9 @@ As visible in the the snapshots scores have come down for medium sized schools i
 
 # Scores by school type - Average came down for Charter Schools
 
+## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
+1. The overall passing rate for Thomas High School changed from 90.94% to 90.63%
+2. Data at the grade level will now show as "NaN" in reports for the 9th grade students at Thomas High School
+3. Math, reading and overall average for THS saw a shift
+4. Overall changes seem insignificant at a broaded level but may be significant when drilling down to a more granular level of data.
