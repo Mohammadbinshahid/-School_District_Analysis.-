@@ -3,7 +3,7 @@
 ** Challenge code until output line 128 in file, original module code is after line 128 **
 
 ## Overview of the school district analysis:
-School District Board requested to perform an analysis of several key metrics at school and district level to get a snapshot of their performance. Analysis focused on maths and reading scored presented in several different ways for a board meeting. The School Board reviewed the analysis and assessed that the data from Thomas High School's Ninth Grade Class maybe subject to acadamic dishonesty. The board asked for this data to be removed and a revised analysis to be performed. 
+School District Board requested to perform an analysis of several key metrics at school and district level to get a snapshot of their performance. Analysis focused on maths and reading scores presented in several different ways for a board meeting. The School Board reviewed the analysis and assessed that the data from Thomas High School's Ninth Grade Class maybe subject to acadamic dishonesty. The board asked for this data to be removed and a revised analysis to be performed. 
 
 ### Process
   1. Used Jupyter notebook by opening notebook through Anaconda Pythondata environment.
@@ -23,7 +23,7 @@ Original
 Revised
 ![district_summary_df revised](https://user-images.githubusercontent.com/104873181/171786912-ca7afa94-f7f5-48e5-8e3f-3bced7918844.png)
 
-The test data of 9th grade students of Thomas Hight School was changed to null data. Revised percentages of students passing were calculated. Data showed an insignificant change in overall scores. Math grade average came down to 78.9 as compared to 79. In percentage terms, grade average went down by 0.2% to 74.8% from 75% in the original analysis for maths.
+The test data of 9th grade students of Thomas High School was changed to null data. Revised percentages of students passing were calculated. Data showed an insignificant change in overall scores. Math grade average came down to 78.9 as compared to 79. In percentage terms, grade average went down by 0.2% to 74.8% from 75% in the original analysis for maths.
 
 For reading, the grade average was same rounded to one decimal point however pass percentage dropped from 86% to 85.7%.
 
@@ -65,4 +65,4 @@ As visible in the the snapshots scores have come down for medium sized schools i
 1. The overall passing rate for Thomas High School changed from 90.94% to 90.63%
 2. Data at the grade level will now show as "NaN" in reports for the 9th grade students at Thomas High School
 3. Math, reading and overall average for THS saw a shift
-4. Overall changes seem insignificant at a broaded level but may be significant when drilling down to a more granular level of data.
+4. Overall changes seem insignificant at a broader level but may be significant when drilling down to a more granular level of data.
